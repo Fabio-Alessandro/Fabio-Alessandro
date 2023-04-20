@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/fabio-alessandro-022a4a261">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:fabioalessandrotr@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Fabio-Alessandro&style=flat-square&color=blue" alt=""/>
   <br></br>
@@ -23,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 • :telescope: Currently working on the NetGlobal Solutions' LinkBase project. <br><br>
 • :sunflower:  Learning Next.js and MongoDB. <br><br>
 • :man_technologist: Check out my other projects: https://github.com/Fabio-Alessandro <br><br>
-• :mailbox_with_mail: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-Fabio_Alessandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alessandro-022a4a261) <br><br>
+• :mailbox_with_mail: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-Fabio_Alessandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alessandro-022a4a261) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:fabioalessandrotr@gmail.com)<br><br>
 
 Reach out through email: fabioalessandrotr@gmail.com<br><br/>
   <br>
