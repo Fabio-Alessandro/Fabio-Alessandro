@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M2NmIyZGU3MzIwYjVkYjJhYjI1OWRlYTEyNjZjMzdjMjRlYTgxZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   <br><br/>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/fabio-alessandro-022a4a261)">
+    <a href="https://www.linkedin.com/in/fabio-alessandro-022a4a261">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
